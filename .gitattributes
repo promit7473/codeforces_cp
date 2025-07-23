@@ -1,0 +1,2 @@
+chrome_profile/** filter=git-crypt diff=git-crypt
+chrome_profile_backup_20250723_161251/** filter=git-crypt diff=git-crypt
