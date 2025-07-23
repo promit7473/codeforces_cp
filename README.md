@@ -1,4 +1,5 @@
 <p align="center">
+<<<<<<< HEAD
   <img src="https://cfstats.example.com/graph?user=mh_promit" alt="My Codeforces Rating Graph">
 </p>
 
@@ -6,6 +7,8 @@
 <p align="center">
 <p align="center">
 <p align="center">
+=======
+>>>>>>> 86fdd7b (Feat: Remove Codeforces rating graph section from README)
   ## 🚀 Latest 10 Codeforces Submissions for mh_promit
 </p>
 
