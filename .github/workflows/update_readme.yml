@@ -2,12 +2,14 @@ name: 🚀 Update Codeforces Submission in README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # runs every hour
-  workflow_dispatch:     # allows manual trigger
+    - cron: '0 * * * *'  # runs every hour UTC
+  workflow_dispatch:   # allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions: # <--- ADD THIS BLOCK
+      contents: write # This allows the workflow to write to the repository
     steps:
       - uses: actions/checkout@v3
 
