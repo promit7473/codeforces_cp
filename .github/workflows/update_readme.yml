@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions: # <--- ADD THIS BLOCK
+    permissions: # <--- THIS IS THE CRUCIAL BLOCK
       contents: write # This allows the workflow to write to the repository
     steps:
       - uses: actions/checkout@v3
