@@ -1,0 +1,64 @@
+🚀 Starting Codeforces Submission Organizer...
+Last processed submission ID: 330452014
+No new accepted submissions to process.
+✅ Codeforces Submission Organizer finished.
+🚀 Starting Codeforces Submission Organizer...
+Last processed submission ID: 330452014
+Found 1 new accepted submissions to process.
+Traceback (most recent call last):
+  File "/home/mhpromit7473/git-automation/organize_cf.py", line 309, in <module>
+    driver = get_selenium_driver()
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/organize_cf.py", line 56, in get_selenium_driver
+    driver = uc.Chrome(options=options) 
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:40831
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5806f3e9387a <unknown>
+#1 0x5806f3938133 <unknown>
+#2 0x5806f3923fa3 <unknown>
+#3 0x5806f3977b9c <unknown>
+#4 0x5806f396d389 <unknown>
+#5 0x5806f39bde9e <unknown>
+#6 0x5806f39bd466 <unknown>
+#7 0x5806f39af683 <unknown>
+#8 0x5806f397bb5b <unknown>
+#9 0x5806f397cf31 <unknown>
+#10 0x5806f3e587cb <unknown>
+#11 0x5806f3e5c5d4 <unknown>
+#12 0x5806f3e3f2c9 <unknown>
+#13 0x5806f3e5d178 <unknown>
+#14 0x5806f3e236bf <unknown>
+#15 0x5806f3e80e78 <unknown>
+#16 0x5806f3e81056 <unknown>
+#17 0x5806f3e92b96 <unknown>
+#18 0x75ba6fc9caa4 <unknown>
+#19 0x75ba6fd29c3c <unknown>
+
+Python script failed. Skipping Git operations.
+Script finished.
+🚀 Starting Codeforces Submission Organizer...
+Last processed submission ID: 330452014
+Found 1 new accepted submissions to process.
+Attempting to log in to Codeforces...
+Login failed: Did not log in manually within the time limit (60s) or profile element not found. CAPTCHA or redirect issue might still be present.
+Exiting as login is crucial for bypassing anti-bot measures.
+WebDriver closed.
