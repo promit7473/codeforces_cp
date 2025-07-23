@@ -1,7 +1,6 @@
-# Codeforces Submissions
+## 🚀 Last 10 Codeforces Submissions
 
-## 🚀 Latest Codeforces Submission
+| Problem | Verdict | Language | Time | Submission |
+|---------|---------|----------|------|------------|
+| _Fetching..._ |
 
-| Problem | Verdict | Language | Time | Link |
-|--------|---------|----------|------|------|
-| _Loading latest submission..._ |
