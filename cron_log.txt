@@ -1649,3 +1649,123 @@ Exiting as login is crucial for bypassing anti-bot measures.
 WebDriver closed.
 Python script finished successfully. Proceeding with Git operations.
 Adding changes to Git...
+Committing changes...
+[main ea72dbc] Auto-sync Codeforces submissions on 2025-07-23 16:10:05
+ 62 files changed, 101 insertions(+), 67 deletions(-)
+ create mode 100644 chrome_profile/Default/.com.google.Chrome.rKpjCr
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/39bf4c9de2c4434c_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/d970063c30cb4d17_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/d9f650e8c83dc9ca_0
+ delete mode 100644 chrome_profile/Default/Sessions/Session_13397738408088745
+ create mode 100644 chrome_profile/Default/Sessions/Session_13397738995669987
+ rename chrome_profile/Default/Sessions/{Tabs_13397738408134221 => Tabs_13397738995812328} (96%)
+Pulling latest changes from remote 'main' branch...
+From github.com:promit7473/codeforces_cp
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Pushing changes to remote repository 'main' branch...
+To github.com:promit7473/codeforces_cp.git
+   2af5ad1..ea72dbc  main -> main
+Git push completed successfully.
+Script finished at 2025-07-23 16:10:13.
+Running Codeforces Organizer Python script (via Xvfb) at 2025-07-23 16:10:46...
+🚀 Starting Codeforces Submission Organizer...
+Last processed submission ID: 330452014
+Found 1 new accepted submissions to process.
+Traceback (most recent call last):
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 1428, in getresponse
+    response.begin()
+  File "/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mhpromit7473/git-automation/organize_cf.py", line 309, in <module>
+    driver = get_selenium_driver()
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/organize_cf.py", line 56, in get_selenium_driver
+    driver = uc.Chrome(options=options) 
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 451, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/mhpromit7473/git-automation/venv/lib/python3.12/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 1428, in getresponse
+    response.begin()
+  File "/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+WARNING: Xvfb process (PID 959639) might not have terminated cleanly.
+Python script failed (exit code 1). Skipping Git operations.
+Please check the log for Python script errors.
+Script finished at 2025-07-23 16:11:06.
+🚀 Starting Codeforces Submission Organizer...
+Last processed submission ID: 330452014
+Found 1 new accepted submissions to process.
+Attempting to log in to Codeforces...
+Login failed: Did not log in manually within the time limit (60s) or profile element not found. CAPTCHA or redirect issue might still be present.
+Exiting as login is crucial for bypassing anti-bot measures.
+WebDriver closed.
+Python script finished successfully. Proceeding with Git operations.
+Adding changes to Git...
