@@ -3,10 +3,9 @@ from datetime import datetime
 
 HANDLE = "mh_promit"
 README_FILE = "README.md"
-NUM_SUBMISSIONS_TO_DISPLAY = 10 # Set this to 5 or 10 as desired
+NUM_SUBMISSIONS_TO_DISPLAY = 10 
 
 def fetch_submissions(count=NUM_SUBMISSIONS_TO_DISPLAY):
-    """Fetches the latest 'count' submissions for the specified handle."""
     url = f"https://codeforces.com/api/user.status?handle={HANDLE}&from=1&count={count}"
     res = requests.get(url).json()
     if res["status"] != "OK":
@@ -53,16 +52,8 @@ def fetch_submissions(count=NUM_SUBMISSIONS_TO_DISPLAY):
     return submissions_data
 
 def update_readme(submissions_list):
-    # The graph URL and heading you provided.
-    # This part should be consistent with what's manually in your README or generated elsewhere.
-    # If your graph URL changes, you'll need to update it here.
-    graph_section = f"""\
-<p align="center">
-  <img src="https://cfstats.example.com/graph?user={HANDLE}" alt="My Codeforces Rating Graph">
-</p>
-"""
+    # The graph_section variable is removed, so it won't be included in the README.md
 
-    # Centered header for the submissions table
     submission_header = f"""\
 <p align="center">
   ## 🚀 Latest {NUM_SUBMISSIONS_TO_DISPLAY} Codeforces Submissions for {HANDLE}
@@ -91,10 +82,9 @@ def update_readme(submissions_list):
             )
             table_rows.append(row)
 
-    # Combine all parts: Graph, Submission Header, Table
+    # *** new_content_block no longer includes graph_section ***
     new_content_block = (
-        f"{graph_section}\n\n" # Add the centered graph
-        f"{submission_header}\n\n" # Add the centered submission header
+        f"{submission_header}\n\n"
         f"{table_header}\n" + "\n".join(table_rows) + "\n"
     )
 
@@ -103,22 +93,15 @@ def update_readme(submissions_list):
 
     start_index = -1
     for i, line in enumerate(lines):
-        # We'll replace content starting from the first "## 🚀" heading found
-        # This logic assumes the graph section will be introduced by the script
-        # or is above the main `## 🚀 Latest ... Submissions` heading
+        # The script will still find the "## 🚀" heading to replace the block
         if line.strip().startswith("## 🚀"):
             start_index = i
             break
 
-    # If the specific heading for submissions is found, replace from there.
-    # Otherwise, if the graph section is managed manually, and the script only
-    # manages the submission table, we might need a more robust marker.
-    # For now, let's assume the script manages the entire block starting from the first `## 🚀`.
-
     updated_content = []
     if start_index != -1:
-        updated_content = lines[:start_index] # Keep all lines before the existing section
-        updated_content.append(new_content_block) # Add the entirely new block
+        updated_content = lines[:start_index]
+        updated_content.append(new_content_block)
     else:
         print("Warning: Existing Codeforces section heading not found in README.md. Appending new content.")
         updated_content = lines
