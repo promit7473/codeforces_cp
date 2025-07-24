@@ -4911,3 +4911,23 @@ No submissions found or error fetching submissions. Exiting.
 ✅ Codeforces Submission Organizer finished.
 Python script finished successfully. Proceeding with Git operations.
 Adding changes to Git...
+Committing changes...
+[main fd44aca] Auto-sync Codeforces submissions on 2025-07-24 17:11:06
+ 1 file changed, 20 insertions(+)
+Pulling latest changes from remote 'main' branch...
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ERROR: Git pull failed (exit code 1). This might indicate a merge conflict, network issue, or unmerged changes.
+Please check your repository manually for unmerged changes or conflicts.
+Script finished at 2025-07-24 17:11:06.
+Running Codeforces Organizer Python script (via Xvfb) at 2025-07-24 17:40:01...
+🚀 Starting Codeforces Submission Organizer...
+Last processed submission ID: 330529735
+Error fetching submissions from API: HTTPSConnectionPool(host='codeforces.com', port=443): Max retries exceeded with url: /api/user.status?handle=mh_promit&from=1&count=50 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x72c410de7650>: Failed to resolve 'codeforces.com' ([Errno -3] Temporary failure in name resolution)"))
+No submissions found or error fetching submissions. Exiting.
+✅ Codeforces Submission Organizer finished.
+Python script finished successfully. Proceeding with Git operations.
+Adding changes to Git...
