@@ -5316,3 +5316,185 @@ WebDriver closed.
 ✅ Codeforces Submission Organizer finished.
 Python script finished successfully. Proceeding with Git operations.
 Adding changes to Git...
+Committing changes...
+[main df278a4] Auto-sync Codeforces submissions on 2025-07-25 13:35:50
+ 250 files changed, 130 insertions(+), 4 deletions(-)
+ create mode 100644 1360/B_Honest_Coach/B_Honest_Coach.cpp
+ create mode 100644 1512/A_Spy_Detected_/A_Spy_Detected_.cpp
+ create mode 100644 467/A_George_and_Accommodation/A_George_and_Accommodation.cpp
+ create mode 100644 chrome_profile/Default/.com.google.Chrome.pafuj1
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/0089dd57e4df1c91_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/06b719f9c535da1d_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/0705b77ac601bc95_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/0c11dc279fc00279_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/0c5f5e44f89115ae_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/0f579060d85a6921_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/114959f5de6cf832_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/141c83b2571569d9_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/18c260ed1fbd4192_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/1b2e5a36cb0a8dd8_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/1e2071ef6f7102bf_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/225ca8bd749b1667_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/2aad6f6913d00f1e_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/2f997b38f8f2c77c_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/2fd6e03a7d4679ac_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/347141abe51a31a4_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/39c67db97a3ee877_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/3aa7b19f17d365ca_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/3baa9c02e2974b2b_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/4149bf1127552087_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/41a808b07df50b3e_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/44931de7a35c9fed_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/45069cd440675e0c_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/46bec5fb64abd58c_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/50ac13cbd8153dd4_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/52c09a708643297d_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/54abf18a27aad05b_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/54b962fbc0e7ce84_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/55a14d17c0dc4226_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/5e00eddcee1ec59c_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/6081253a71e3e3b6_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/61fecece61313cb8_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/62755c4f8fda4803_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/631b60e9cb3171a9_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/651c1040fd97cfbe_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/71a926730253a9e5_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/76812ee6b7501975_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/7a1f4aaef33dbb90_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/7b6d4b896595ae83_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/85101722fd30a067_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/85f2a604336535b7_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/88a6c6f6dfdf1359_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/89cad1cde1719bc4_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/8e56a0e06a4cacf1_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/93fb190f3d099d22_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/949f371a729deb4e_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/94b8f52753b32387_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/9552d96ee352b8dd_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/955b3c5f1f5b9151_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/95e1743d037b1859_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/96a92c18d2a72a69_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/977053b538da882c_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/98f5b929f70ee36f_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/9b0ca2927a5876ad_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/9c42dd67899eab2b_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/9c6d88882a9ded8a_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/9cea42273215351a_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/9d0a4303b329d157_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/9e2e2f23bbfa4843_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/a40dd81b2b1a66b5_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/a6af2742579b3542_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/a72ba2c6f6ef7e22_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/a834bccb0e8b1a33_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/a8657c2809d90c53_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/aae8061de61413a2_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/b2a452bd4a743113_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/b43e39bd0e6746f7_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/b4bf68c96d001997_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/b5665b92960624af_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/b8d5e5662def4991_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/c256c45b94cb0a86_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/c72bdd8d20d05037_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/cdac7c3ef5932170_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/d5ea47f8c6a27184_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/d6b9393c4dffb5d0_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/d6bdfd48cd95e5ea_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/d76fc1c597119ce0_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/d7dfab5af40b84d0_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/d91e3851eb35d8d9_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/dd7ddae897fff548_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/de3f7d405ec58751_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/e0187bea94d1d6b0_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/e251e534e2c35b75_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/e63235e612611c3f_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/ed397b6d150f7b8a_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/efb24baab6ee25df_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/f05a1a29e122b100_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/f07de953ce77c4b4_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/f1167bcf08ddbffc_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/f3cea9b0ce1a5be4_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/f78529641f78a614_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/f7be30ef3b9ef789_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/fb5738d97bc41fcf_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/fc895d21cd07826e_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/fd0b63f16b02753e_0
+ create mode 100644 chrome_profile/Default/Cache/Cache_Data/fe8c0a8d6735d83a_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/003141584ec8265d_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/0bc8a4cdd914b90c_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/1d844a7b5a1b7605_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/2ee74a21e865ec75_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/3310f363e4029caa_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/3385f85a9d09f978_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/3495f507e8ac6da2_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/3a0bdc026f6ca833_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/3a3514acb7a80dbe_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/3ca2a3c30929c23b_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/3fbbfd18a0b40662_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/48f1eaa0cf83ac1a_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/4d5c755b6de84148_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/4f5883251a5f8ec5_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/5224cb7476410642_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/53fe593a40c6879c_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/64431c819c76d95e_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/6559f9890b608ac4_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/6ff3a4ebb4b2dd7c_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/71b5863d4b292321_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/7208d75389789768_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/72843d68e2892f50_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/76af5bbafad4c0f3_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/78bf0dfb9a96ad09_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/7dc371e3c79da945_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/84a2ab1564f87ffc_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/8e74d3d3fcb945f2_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/968babf6999ce409_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/96d73d38502283ac_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/9d14290b49079dab_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/9d4b12fae6aa1336_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/a006c3f9d79e4cec_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/a067509b652a1cef_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/a6f1a8cf8121a27b_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/a7dcc71418096410_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/af53f0de8d448002_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/b07c1af541e22732_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/c3c1ba753932b09e_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/c4a77ac69cc3df3d_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/cb654f420233e390_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/cca96d421e2afc92_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/cf20dded8cc50d32_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/d185865bd5029587_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/d1b0d029bb0eb696_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/dd82957bc67107a3_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/ee8e939e0c1c7021_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/f87520d62c83d968_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/fa51c6e93f10c932_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/fbf9793ce4ebb3df_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/fc64fe6ff247c0f9_0
+ create mode 100644 chrome_profile/Default/Code Cache/js/fece4bbbe58156f1_0
+ create mode 100644 chrome_profile/Default/Service Worker/ScriptCache/b6c28cea6ed9dfc1_0
+ create mode 100644 chrome_profile/Default/Service Worker/ScriptCache/b6c28cea6ed9dfc1_1
+ delete mode 100644 chrome_profile/Default/Service Worker/ScriptCache/f1cdccba37924bda_0
+ delete mode 100644 chrome_profile/Default/Service Worker/ScriptCache/f1cdccba37924bda_1
+ delete mode 100644 chrome_profile/Default/Sessions/Session_13397855508103421
+ create mode 100644 chrome_profile/Default/Sessions/Session_13397902513072465
+Pulling latest changes from remote 'main' branch...
+From github.com:promit7473/codeforces_cp
+ * branch            main       -> FETCH_HEAD
+   2baf046..f2deca4  main       -> origin/main
+Merge made by the 'ort' strategy.
+ README.md | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+Pushing changes to remote repository 'main' branch...
+To github.com:promit7473/codeforces_cp.git
+   f2deca4..c86bf46  main -> main
+Git push completed successfully.
+Script finished at 2025-07-25 13:36:06.
+Running Codeforces Organizer Python script (via Xvfb) at 2025-08-01 15:53:14...
+🚀 Starting Codeforces Submission Organizer...
+Last processed submission ID: 330769467
+Found 1 new accepted submissions to process.
+Attempting to log in to Codeforces...
+Login failed: Did not log in manually within the time limit (60s) or profile element not found. CAPTCHA or redirect issue might still be present.
+Exiting as login is crucial for bypassing anti-bot measures.
+WebDriver closed.
+Python script finished successfully. Proceeding with Git operations.
+Adding changes to Git...
