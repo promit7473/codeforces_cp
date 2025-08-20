@@ -604,12 +604,14 @@
 <p align="center">
 <p align="center">
 <p align="center">
+<p align="center">
   ## 🚀 Latest 10 Codeforces Submissions for mh_promit
 </p>
 
 
 | Time (UTC) | Who | Problem | Language | Verdict | Time (ms) | Memory | Submission |
 |------------|-----|---------|----------|---------|-----------|--------|------------|
+| 2025-08-20 18:35 UTC | mh_promit | [G. Wafu!](https://codeforces.com/contest/2131/problem/G) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 77 ms | 6200 KB | [Link](https://codeforces.com/contest/2131/submission/334709956) |
 | 2025-08-20 18:15 UTC | mh_promit | [G. Wafu!](https://codeforces.com/contest/2131/problem/G) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 31 ms | 3100 KB | [Link](https://codeforces.com/contest/2131/submission/334707445) |
 | 2025-08-20 15:45 UTC | mh_promit | [E. Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 46 ms | 0 KB | [Link](https://codeforces.com/contest/2131/submission/334689711) |
 | 2025-08-20 15:43 UTC | mh_promit | [E. Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 46 ms | 0 KB | [Link](https://codeforces.com/contest/2131/submission/334689394) |
@@ -619,4 +621,3 @@
 | 2025-08-20 15:29 UTC | mh_promit | [A. Lever](https://codeforces.com/contest/2131/problem/A) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 46 ms | 0 KB | [Link](https://codeforces.com/contest/2131/submission/334687478) |
 | 2025-08-15 06:20 UTC | mh_promit | [E. Sets of Complementary Sums](https://codeforces.com/contest/2125/problem/E) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 781 ms | 0 KB | [Link](https://codeforces.com/contest/2125/submission/334019049) |
 | 2025-08-15 06:17 UTC | mh_promit | [E. Sets of Complementary Sums](https://codeforces.com/contest/2125/problem/E) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 468 ms | 100 KB | [Link](https://codeforces.com/contest/2125/submission/334018740) |
-| 2025-08-15 06:09 UTC | mh_promit | [E. Sets of Complementary Sums](https://codeforces.com/contest/2125/problem/E) | C++23 (GCC 14-64, msys2) | ❌ MEMORY LIMIT EXCEEDED | 796 ms | 1048600 KB | [Link](https://codeforces.com/contest/2125/submission/334017861) |
