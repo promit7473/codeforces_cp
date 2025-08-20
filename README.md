@@ -601,19 +601,20 @@
 <p align="center">
 <p align="center">
 <p align="center">
+<p align="center">
   ## 🚀 Latest 10 Codeforces Submissions for mh_promit
 </p>
 
 
 | Time (UTC) | Who | Problem | Language | Verdict | Time (ms) | Memory | Submission |
 |------------|-----|---------|----------|---------|-----------|--------|------------|
+| 2025-08-20 15:45 UTC | mh_promit | [E. Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 46 ms | 0 KB | [Link](https://codeforces.com/contest/2131/submission/334689711) |
+| 2025-08-20 15:43 UTC | mh_promit | [E. Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 46 ms | 0 KB | [Link](https://codeforces.com/contest/2131/submission/334689394) |
+| 2025-08-20 15:41 UTC | mh_promit | [D. Arboris Contractio](https://codeforces.com/contest/2131/problem/D) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 233 ms | 7600 KB | [Link](https://codeforces.com/contest/2131/submission/334689077) |
+| 2025-08-20 15:36 UTC | mh_promit | [C. Make it Equal](https://codeforces.com/contest/2131/problem/C) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 421 ms | 9600 KB | [Link](https://codeforces.com/contest/2131/submission/334688291) |
+| 2025-08-20 15:32 UTC | mh_promit | [B. Alternating Series](https://codeforces.com/contest/2131/problem/B) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 62 ms | 0 KB | [Link](https://codeforces.com/contest/2131/submission/334687812) |
+| 2025-08-20 15:29 UTC | mh_promit | [A. Lever](https://codeforces.com/contest/2131/problem/A) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 46 ms | 0 KB | [Link](https://codeforces.com/contest/2131/submission/334687478) |
 | 2025-08-15 06:20 UTC | mh_promit | [E. Sets of Complementary Sums](https://codeforces.com/contest/2125/problem/E) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 781 ms | 0 KB | [Link](https://codeforces.com/contest/2125/submission/334019049) |
 | 2025-08-15 06:17 UTC | mh_promit | [E. Sets of Complementary Sums](https://codeforces.com/contest/2125/problem/E) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 468 ms | 100 KB | [Link](https://codeforces.com/contest/2125/submission/334018740) |
 | 2025-08-15 06:09 UTC | mh_promit | [E. Sets of Complementary Sums](https://codeforces.com/contest/2125/problem/E) | C++23 (GCC 14-64, msys2) | ❌ MEMORY LIMIT EXCEEDED | 796 ms | 1048600 KB | [Link](https://codeforces.com/contest/2125/submission/334017861) |
 | 2025-08-15 06:09 UTC | mh_promit | [E. Sets of Complementary Sums](https://codeforces.com/contest/2125/problem/E) | C++23 (GCC 14-64, msys2) | ❌ MEMORY LIMIT EXCEEDED | 858 ms | 1048600 KB | [Link](https://codeforces.com/contest/2125/submission/334017822) |
-| 2025-08-12 13:28 UTC | mh_promit | [C. Make it Equal](https://codeforces.com/contest/2131/problem/C) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 312 ms | 9600 KB | [Link](https://codeforces.com/contest/2131/submission/333659136) |
-| 2025-08-01 09:52 UTC | mh_promit | [A. Stones on the Table](https://codeforces.com/contest/266/problem/A) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 122 ms | 100 KB | [Link](https://codeforces.com/contest/266/submission/331934531) |
-| 2025-07-25 07:34 UTC | mh_promit | [B. Honest Coach](https://codeforces.com/contest/1360/problem/B) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 46 ms | 0 KB | [Link](https://codeforces.com/contest/1360/submission/330769467) |
-| 2025-07-25 07:33 UTC | mh_promit | [A. George and Accommodation](https://codeforces.com/contest/467/problem/A) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 46 ms | 100 KB | [Link](https://codeforces.com/contest/467/submission/330769338) |
-| 2025-07-25 07:31 UTC | mh_promit | [A. Spy Detected!](https://codeforces.com/contest/1512/problem/A) | C++23 (GCC 14-64, msys2) | ✅ Accepted | 62 ms | 0 KB | [Link](https://codeforces.com/contest/1512/submission/330769094) |
-| 2025-07-25 07:27 UTC | mh_promit | [A. George and Accommodation](https://codeforces.com/contest/467/problem/A) | C++23 (GCC 14-64, msys2) | ❌ WRONG ANSWER | 15 ms | 0 KB | [Link](https://codeforces.com/contest/467/submission/330768646) |
