@@ -6675,6 +6675,7 @@
 <p align="center">
 <p align="center">
 <p align="center">
+<p align="center">
   ## 🚀 Latest 10 Codeforces Submissions for mh_promit
 </p>
 
